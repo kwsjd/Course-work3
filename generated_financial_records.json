@@ -1,0 +1,18 @@
+[
+    {
+        "account_number": "VOZWZ6OF575Q",
+        "account_type": "Investment",
+        "balance": 22494.37,
+        "currency": "NOK",
+        "owner": "Mary Hardy",
+        "bank_name": "Williams-Thomas"
+    },
+    {
+        "account_number": "VWD5U8SJNTQW",
+        "account_type": "Savings",
+        "balance": 76732.25,
+        "currency": "SDG",
+        "owner": "Ian Decker",
+        "bank_name": "Perkins Ltd"
+    }
+]

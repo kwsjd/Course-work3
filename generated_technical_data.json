@@ -1,0 +1,217 @@
+[
+    {
+        "ip_address": "220.131.46.28",
+        "mac_address": "80:99:db:65:b2:9d",
+        "domain_name": "lutz-schmitt.com"
+    },
+    {
+        "ip_address": "31.114.172.192",
+        "mac_address": "24:d5:51:58:87:aa",
+        "domain_name": "curtis.biz"
+    },
+    {
+        "ip_address": "33.88.91.178",
+        "mac_address": "8e:2a:9f:b8:e5:f7",
+        "domain_name": "ramirez.com"
+    },
+    {
+        "ip_address": "178.144.38.187",
+        "mac_address": "40:d1:67:23:de:0c",
+        "domain_name": "long.net"
+    },
+    {
+        "ip_address": "47.132.182.171",
+        "mac_address": "62:7c:47:a0:50:22",
+        "domain_name": "wallace.info"
+    },
+    {
+        "ip_address": "208.83.189.186",
+        "mac_address": "e2:a9:ee:4e:54:14",
+        "domain_name": "frazier.com"
+    },
+    {
+        "ip_address": "30.234.220.247",
+        "mac_address": "6c:73:d5:e3:94:12",
+        "domain_name": "merritt.net"
+    },
+    {
+        "ip_address": "117.192.220.44",
+        "mac_address": "9c:6d:78:9d:41:09",
+        "domain_name": "norton.com"
+    },
+    {
+        "ip_address": "153.101.75.48",
+        "mac_address": "e8:3c:2d:6c:22:94",
+        "domain_name": "holland.net"
+    },
+    {
+        "ip_address": "218.57.156.201",
+        "mac_address": "fa:24:d2:d8:3c:96",
+        "domain_name": "snyder.com"
+    },
+    {
+        "ip_address": "201.112.102.230",
+        "mac_address": "8c:31:51:7d:97:76",
+        "domain_name": "hamilton.com"
+    },
+    {
+        "ip_address": "191.126.97.95",
+        "mac_address": "66:10:0b:db:79:f2",
+        "domain_name": "salazar-morris.org"
+    },
+    {
+        "ip_address": "171.132.232.100",
+        "mac_address": "48:0c:77:7c:48:a9",
+        "domain_name": "villanueva.com"
+    },
+    {
+        "ip_address": "105.236.92.155",
+        "mac_address": "52:63:6f:92:1d:80",
+        "domain_name": "aguirre-jordan.biz"
+    },
+    {
+        "ip_address": "24.230.99.57",
+        "mac_address": "a0:cf:21:04:d3:f6",
+        "domain_name": "white.com"
+    },
+    {
+        "ip_address": "81.180.92.41",
+        "mac_address": "16:3e:29:fb:a5:b6",
+        "domain_name": "lamb.com"
+    },
+    {
+        "ip_address": "202.144.131.243",
+        "mac_address": "b8:13:a2:83:d3:e4",
+        "domain_name": "martinez.com"
+    },
+    {
+        "ip_address": "31.18.37.246",
+        "mac_address": "da:79:eb:f4:d3:13",
+        "domain_name": "browning.com"
+    },
+    {
+        "ip_address": "59.241.146.117",
+        "mac_address": "c6:63:0e:a3:15:67",
+        "domain_name": "johnson.info"
+    },
+    {
+        "ip_address": "62.122.88.181",
+        "mac_address": "bc:6a:32:a1:24:66",
+        "domain_name": "williams-johnson.biz"
+    },
+    {
+        "ip_address": "102.12.160.151",
+        "mac_address": "2e:73:d2:44:05:99",
+        "domain_name": "meyer-mcgee.biz"
+    },
+    {
+        "ip_address": "210.135.159.16",
+        "mac_address": "9a:1e:7a:8d:6c:93",
+        "domain_name": "solis-haynes.org"
+    },
+    {
+        "ip_address": "180.181.182.147",
+        "mac_address": "36:bd:58:d0:33:24",
+        "domain_name": "burns-perkins.info"
+    },
+    {
+        "ip_address": "219.222.116.83",
+        "mac_address": "28:ff:6d:8c:1d:ee",
+        "domain_name": "dixon.com"
+    },
+    {
+        "ip_address": "168.244.7.106",
+        "mac_address": "f8:e0:22:03:11:b5",
+        "domain_name": "schmidt-dunn.com"
+    },
+    {
+        "ip_address": "122.148.158.96",
+        "mac_address": "60:54:7b:24:37:66",
+        "domain_name": "wright.com"
+    },
+    {
+        "ip_address": "148.202.28.209",
+        "mac_address": "36:99:82:50:7f:67",
+        "domain_name": "cannon.com"
+    },
+    {
+        "ip_address": "215.196.62.206",
+        "mac_address": "f2:4d:5d:5c:3f:fd",
+        "domain_name": "esparza-jones.org"
+    },
+    {
+        "ip_address": "207.138.99.103",
+        "mac_address": "96:ec:6c:ff:07:24",
+        "domain_name": "vazquez-hayes.net"
+    },
+    {
+        "ip_address": "14.166.253.95",
+        "mac_address": "a8:fe:6a:32:55:5d",
+        "domain_name": "duran.com"
+    },
+    {
+        "ip_address": "108.97.244.238",
+        "mac_address": "90:8b:02:29:cf:2c",
+        "domain_name": "byrd.info"
+    },
+    {
+        "ip_address": "216.233.20.242",
+        "mac_address": "46:49:ad:61:a0:d0",
+        "domain_name": "hudson.com"
+    },
+    {
+        "ip_address": "192.125.8.61",
+        "mac_address": "96:8c:3d:59:3c:8b",
+        "domain_name": "sanchez.net"
+    },
+    {
+        "ip_address": "76.7.68.20",
+        "mac_address": "e0:3b:90:29:42:f7",
+        "domain_name": "harris.com"
+    },
+    {
+        "ip_address": "203.34.197.190",
+        "mac_address": "f2:62:65:18:92:1f",
+        "domain_name": "arnold.com"
+    },
+    {
+        "ip_address": "163.174.63.28",
+        "mac_address": "d2:7d:58:6a:b3:b1",
+        "domain_name": "robinson.net"
+    },
+    {
+        "ip_address": "97.65.21.21",
+        "mac_address": "78:12:1f:52:9f:42",
+        "domain_name": "oconnor-snyder.org"
+    },
+    {
+        "ip_address": "125.211.102.17",
+        "mac_address": "0a:d1:95:2c:11:ac",
+        "domain_name": "norman.biz"
+    },
+    {
+        "ip_address": "191.101.22.92",
+        "mac_address": "08:ca:14:26:ca:67",
+        "domain_name": "mckinney-watts.com"
+    },
+    {
+        "ip_address": "186.30.102.135",
+        "mac_address": "e6:49:bb:55:b5:d4",
+        "domain_name": "hamilton.com"
+    },
+    {
+        "ip_address": "153.103.180.117",
+        "mac_address": "4c:1b:a9:41:ff:2d",
+        "domain_name": "mitchell.org"
+    },
+    {
+        "ip_address": "205.140.147.2",
+        "mac_address": "f8:5f:c0:f8:d6:28",
+        "domain_name": "cox.info"
+    },
+    {
+        "ip_address": "206.127.253.48",
+        "mac_address": "34:42:ff:a5:b2:3b",
+        "domain_name": "anderson.com"
+    }
+]
